@@ -7,4 +7,5 @@ int main() {
     cin >> age;
     cout << "привет" << age;
     //3
+    //
 }
