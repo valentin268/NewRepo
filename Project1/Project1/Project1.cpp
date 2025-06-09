@@ -6,4 +6,5 @@ int main() {
     cout << "Сколько тебе лет?\n";
     cin >> age;
     cout << "привет" << age;
+    //3
 }
